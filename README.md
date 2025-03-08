@@ -1,5 +1,5 @@
 Software Engineer
 
 - Backend: Python, Node.js
-- Frontend: React.js,Next.js
-- Tools:  Docker
+- Frontend: JavaScript, React.js
+- Tools:  Docker, Aws
