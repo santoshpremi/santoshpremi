@@ -1,5 +1,6 @@
-Software Engineer
+### Software Engineer 
+   _Enjoy Building_
 
-- Backend: Python, Node.js
 - Frontend: JavaScript, React.js
+- Backend:  Node.js, Python
 - Tools:  Docker, Aws
