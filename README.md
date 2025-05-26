@@ -8,7 +8,7 @@
 - Node.js
 - Python
 - Docker
-- AWS
+- Aws
   
 
 
