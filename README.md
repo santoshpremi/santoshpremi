@@ -8,7 +8,6 @@
 - Node.js
 - Python
 - Docker
-- Aws
   
 
 
