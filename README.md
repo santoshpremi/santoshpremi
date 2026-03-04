@@ -11,11 +11,11 @@ Currently researching  Computer Vision  image compression and  Neural network GP
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
 - [**yourGPT**](https://github.com/santoshpremi/yourGPT) - AI assistant for intelligent information retrieval and task automation
-- [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent agent framework · [Live demo](https://kath-agent.onrender.com/)
+- [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent Job Search Agent 
 - [**Agentic-Papers**](https://github.com/santoshpremi/Agentic-Papers)  - Curated collection of agent AI research
 - [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
-- [**background-remover**](https://github.com/santoshpremi/background-remover) - Web-based AI background removal · [Live app](https://www.bg-remove.org/)
-- [**Large-Scale-Distributed-Training**](https://github.com/santoshpremi/Large-Scale-Distributed-Training) - Distributed deep learning at scale
+- [**background-remover**](https://github.com/santoshpremi/background-remover) - Web-based AI background removal 
+- [**Large-Scale-Distributed-Training**](https://github.com/santoshpremi/Large-Scale-Distributed-Training) - Distributed deep learning training at scale
 - [**Your-own-deep-learning-framework**](https://github.com/santoshpremi/Your-own-deep-learning-framework) - Educational DL framework from scratch
 - [**Transformer-from-scratch**](https://github.com/santoshpremi/Transformer-from-scratch) - Vanilla transformer implementation
 - [**Spatial Intelligence**](https://github.com/santoshpremi/Spatial_Intelligence) - Spatial reasoning in AI
