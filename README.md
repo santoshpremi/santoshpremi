@@ -21,5 +21,5 @@ Currently researching  Computer Vision  image compression and  Neural network GP
 - [**Spatial Intelligence**](https://github.com/santoshpremi/Spatial_Intelligence) - Spatial reasoning in AI
 - [**ContractCortex**](https://github.com/santoshpremi/ContractCortex) - ML-powered contract analysis
 ### 🤝 Open Source Contributions
-- [ABrain-One/nn-gpt](https://github.com/ABrain-One/nn-gpt) 
+- [ABrain-One/nn-gpt](https://github.com/ABrain-One/nn-gpt) - Neural network GPT.
 - [**LibReDE-Upgrade**](https://github.com/santoshpremi/LibReDE-Upgrade) - Resource demand estimation for performance models (queueing networks); Java · macOS upgrade
