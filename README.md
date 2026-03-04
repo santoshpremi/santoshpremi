@@ -12,7 +12,7 @@ Currently researching  Computer Vision  image compression and  Neural network GP
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
 - [**yourGPT**](https://github.com/santoshpremi/yourGPT) - AI assistant for intelligent information retrieval and task automation
 - [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent agent framework · [Live demo](https://kath-agent.onrender.com/)
-- [**Agentic-Papers**](https://github.com/santoshpremi/Agentic-Papers) ⭐ - Curated collection of agent AI research
+- [**Agentic-Papers**](https://github.com/santoshpremi/Agentic-Papers)  - Curated collection of agent AI research
 - [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
 - [**background-remover**](https://github.com/santoshpremi/background-remover) - Web-based AI background removal · [Live app](https://www.bg-remove.org/)
 - [**Large-Scale-Distributed-Training**](https://github.com/santoshpremi/Large-Scale-Distributed-Training) - Distributed deep learning at scale
