@@ -9,6 +9,7 @@ Currently researching  Computer Vision  image compression and  Neural network GP
 
 ### 
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
+- [**TiniDrop**](https://tinidrop.com/) - Share files. Publish sites. One link. Online in seconds
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
 - [**yourGPT**](https://github.com/santoshpremi/yourGPT) - AI assistant for intelligent information retrieval and task automation
 - [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent Job Search Agent 
