@@ -2,7 +2,6 @@
 
 Currently researching  Computer Vision  image compression and  Neural network GPT.
 
-- 🔬 Research: Perceptual Image Compression, AI Agents, Distributed Training
 - 💻 Stack:  Machine Learning · Deep Learning · Python · React · Docker · AWS
 - 🌐 [premiadhikari.com](https://www.premiadhikari.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/santosh-premi-adhikari-2407a6209)
