@@ -8,7 +8,7 @@ Currently researching  Computer Vision  image compression and  Neural network GP
 
 ### 
 - [**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**](https://arxiv.org/abs/2605.04903) - Delta-Based Neural Architecture
--[**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
+- [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
 - [**TiniDrop**](https://tinidrop.com/) - Share files. Publish sites. One link. Online in seconds
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
