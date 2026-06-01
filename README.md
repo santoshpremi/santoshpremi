@@ -7,7 +7,7 @@ Currently researching  Computer Vision and  Neural network GPT.
 - 💼 [LinkedIn](https://www.linkedin.com/in/santosh-premi-adhikari-2407a6209)
 
 ### 
-- [**Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability**]([https://arxiv.org/abs/2605.04903](https://arxiv.org/html/2605.30103v1)) 
+- [**Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability**](https://arxiv.org/html/2605.30103v1)
 - [**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**](https://arxiv.org/abs/2605.04903) - Delta-Based Neural Architecture
 - [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
