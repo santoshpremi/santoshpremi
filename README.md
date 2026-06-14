@@ -7,13 +7,13 @@ Currently researching  Computer Vision and  Neural network GPT.
 - 💼 [LinkedIn](https://www.linkedin.com/in/santosh-premi-adhikari-2407a6209)
 
 ### 
+- [**KathaGPT**](https://santoshpremi.github.io/KathaGPT/) - Private AI workspace, built for your desktop
 - [**Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability**](https://arxiv.org/html/2605.30103v1)
 - [**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**](https://arxiv.org/abs/2605.04903) - Delta-Based Neural Architecture
 - [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
 - [**TiniDrop**](https://tinidrop.com/) - Document Intelligence Platform - Share files. Track Views. Publish sites. One link. Online in seconds
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
-- [**yourGPT**](https://github.com/santoshpremi/yourGPT) - AI assistant for intelligent information retrieval and task automation
 - [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent Job Search Agent 
 - [**Agentic-Papers**](https://github.com/santoshpremi/Agentic-Papers)  - Curated collection of agent AI research
 - [**background-remover**](https://github.com/santoshpremi/background-remover) - Web-based AI background removal 
