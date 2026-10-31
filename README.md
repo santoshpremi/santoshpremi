@@ -7,6 +7,7 @@ Currently researching  Computer Vision and  Neural network GPT.
 - 💼 [LinkedIn](https://www.linkedin.com/in/santosh-premi-adhikari-2407a6209)
 
 ### 
+- [**Doom Researching: A Conceptual Framework for Repetitive AI-Assisted Information Seeking, Cognitive Offloading, and the Illusion of Knowing**](https://arxiv.org/abs/2607.02723) 
 - [**KathaGPT**](https://santoshpremi.github.io/KathaGPT/) - Private AI workspace, built for your desktop
 - [**Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability**](https://arxiv.org/html/2605.30103v1)
 - [**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**](https://arxiv.org/abs/2605.04903) - Delta-Based Neural Architecture
