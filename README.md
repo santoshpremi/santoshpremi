@@ -12,7 +12,7 @@ Currently researching  Computer Vision and  Neural network GPT.
 - [**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**](https://arxiv.org/abs/2605.04903) - Delta-Based Neural Architecture
 - [**Perceptual Learned Image Compression**](https://github.com/santoshpremi/Perceptual_Learned_Image_Compression) - Human friendly perceptual compression 
 - [**Designing-LLM-Applications**](https://github.com/santoshpremi/Designing-LLM-Applications-with-Partial-Autonomy) - Partial autonomy patterns for LLM apps 
-- [**TiniDrop**](https://tinidrop.com/) - Document Intelligence Platform - Share files. Track Views. Publish sites. One link. Online in seconds
+- [**TiniDrop**](https://tinidrop.com/) - Secure Document Intelligence Platform - Share files. Track Views. Publish sites. One link. Online in seconds
 - [**AutoMCP**](https://github.com/santoshpremi/AutoMCP) - Dynamic tool synthesis via code pattern mining and self-regenerative agent architectures
 - [**Kath-Agent**](https://github.com/santoshpremi/Kath-Agent) - Intelligent Job Search Agent 
 - [**Agentic-Papers**](https://github.com/santoshpremi/Agentic-Papers)  - Curated collection of agent AI research
